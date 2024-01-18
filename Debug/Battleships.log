@@ -1,0 +1,20 @@
+﻿  main.cpp
+F:\IT\C++\Battleships\main.cpp(72,29): warning C4018: <=: несоответствие типов со знаком и без знака
+F:\IT\C++\Battleships\main.cpp(219,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(219,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(238,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(238,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(248,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(256,49): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(395,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(395,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(583,123): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(583,88): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(584,111): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(584,76): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(641,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(641,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(658,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(658,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\IT\C++\Battleships\main.cpp(174): warning C4715: coordsCorrect: значение возвращается не при всех путях выполнения
+  Battleships.vcxproj -> F:\IT\C++\Battleships\Debug\Battleships.exe
